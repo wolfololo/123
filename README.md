@@ -1,2 +1,3 @@
 # -
 本项目采用python对大恒相机SDK进行二次开发，实现基本的图像连续采集功能
+# data_collect.py
